@@ -132,10 +132,13 @@
       <a title="MongoDB" href="http://mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Redis" href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
+      <a title="ElasticSearch" href="https://elastic.co" target="_blank"> <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg" alt="elastic" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Firebase" href="https://firebase.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="redis" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="Redis" href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
     </td>
   </tr>
   <tr>
