@@ -1,6 +1,6 @@
-### Hi there Visitor 👋
+<h2> Hi there Visitor <a href = "#"><img src = "./Wave.gif" alt = "Ciao" height = 25 width = 25 /></a></h2>
 
-<img src = "./introv2.gif" alt = "Hi, I am Progyan Bhattacharya." />
+<a href = "#"><img src = "./introv2.gif" alt = "Hi, I am Progyan Bhattacharya." /></a>
 
 <p>
   <a href = "mailto:bprogyan@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
