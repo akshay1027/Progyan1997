@@ -76,6 +76,9 @@
     <td>
       <a title="Grunt" href="https://gruntjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg" alt="grunt" width="40" height="40"/> </a>
     </td>
+    <td>
+      <a title="API Extractor" href="https://api-extractor.com" target="_blank"> <img src="https://api-extractor.com/images/api-extractor.svg" alt="api-extractor" width="40" height="40"/> </a>
+    </td>
   </tr>
   <tr>
     <td>
