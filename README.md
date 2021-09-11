@@ -1,6 +1,6 @@
 <h2> Hi there Visitor <a href = "#"><img src = "./Wave.gif" alt = "Ciao" height = 25 width = 25 /></a></h2>
 
-<a href = "#"><img src = "./introv2.gif" alt = "Hi, I am Progyan Bhattacharya." /></a>
+<center><a href = "#"><img src = "./introv2.gif" alt = "Hi, I am Progyan Bhattacharya." height=500 /></a></center>
 
 <p>
   <a href = "mailto:bprogyan@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
@@ -185,10 +185,12 @@
   <img src = "https://github-profile-trophy.vercel.app/?username=Progyan1997&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 >
 </p>
 
-### Articles
+<!--### Articles
 <p>
    <a target = "_blank" href = "https://github-readme-medium-recent-article.vercel.app/medium/@bprogyan/0" ><img src = "https://github-readme-medium-recent-article.vercel.app/medium/@bprogyan/0" alt = "Recent Article/1" width = 800 > 
   <a target = "_blank" href = "https://github-readme-medium-recent-article.vercel.app/medium/@bprogyan/1"><img src = "https://github-readme-medium-recent-article.vercel.app/medium/@bprogyan/1" alt = "Recent Article/2"> 
-</p>
+</p>-->
 
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
