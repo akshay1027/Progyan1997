@@ -20,22 +20,22 @@
       <h4>Frontend Languages</h4>
     </td>
     <td>
-      <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+      <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="TypeScript" href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+      <a title="TypeScript" href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="CoffeeScript" href="https://www.coffeescript.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original.svg" alt="coffeescript" width="40" height="40"/> </a>
+      <a title="CoffeeScript" href="https://www.coffeescript.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="coffeescript" width="40" height="40"/> </a>
     </td>
     <td>
-       <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+       <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     </td>
     <td>
-       <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+       <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     </td>
     <td>
-       <a title="Sass/SCSS" href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+       <a title="Sass/SCSS" href="https://sass-lang.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     </td>
   </tr>
   <tr>
@@ -43,22 +43,22 @@
       <h4>Frontend Frameworks</h4>
     </td>
     <td>
-      <a title="Node.js" href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+      <a title="Node.js" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="React" href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
+      <a title="React" href="https://reactjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="Next" href="https://nextjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
     </td>
      <td>
-      <a title="Redux" href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="reduxjs" width="40" height="40"/> </a>
+      <a title="Redux" href="https://redux.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="reduxjs" width="40" height="40"/> </a>
     </td>
      <td>
-      <a title="Backbone" href="https://backbonejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original.svg" alt="backbonejs" width="40" height="40"/> </a>
+      <a title="Backbone" href="https://backbonejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-original.svg" alt="backbonejs" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Jest" href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a title="Mocha" href="https://mochajs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a>
+      <a title="TailwindCSS" href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
     </td>
   </tr>
   <tr>
@@ -66,16 +66,19 @@
       <h4>Frontend Tooling</h4>
     </td>
     <td>
-      <a title="Babel" href="https://babeljs.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> </a>
+      <a title="Babel" href="https://babeljs.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Webpack" href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
+      <a title="Webpack" href="https://webpack.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Gulp" href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
+      <a title="Gulp" href="https://gulpjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Grunt" href="https://gruntjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg" alt="grunt" width="40" height="40"/> </a>
+      <a title="Grunt" href="https://gruntjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" alt="grunt" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="Jest" href="https://jestjs.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="API Extractor" href="https://api-extractor.com" target="_blank"> <img src="https://api-extractor.com/images/api-extractor.svg" alt="api-extractor" width="40" height="40"/> </a>
@@ -86,22 +89,22 @@
       <h4>Backend Languages</h4>
     </td>
     <td>
-      <a title="Ruby" href="https://ruby-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+      <a title="Ruby" href="https://ruby-lang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Python" href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+      <a title="Python" href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Java" href="https://java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+      <a title="Java" href="https://java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="C#" href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+      <a title="C#" href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="PHP" href="https://php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+      <a title="PHP" href="https://php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="GraphQL" href="https://graphql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
+      <a title="GraphQL" href="https://graphql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
     </td>
   </tr>
   <tr>
@@ -109,19 +112,19 @@
       <h4>Backend Frameworks</h4>
     </td>
     <td>
-      <a title="Rails" href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+      <a title="Rails" href="https://rubyonrails.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Flask" href="https://flask.palletsprojects.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+      <a title="Flask" href="https://flask.palletsprojects.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Django" href="https://djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg" alt="django" width="40" height="40"/> </a>
+      <a title="Django" href="https://djangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-line.svg" alt="django" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
+      <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Laravel" href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+      <a title="Laravel" href="https://laravel.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
     </td>
   </tr>
   <tr>
@@ -129,22 +132,22 @@
       <h4>Databases</h4>
     </td>
     <td>
-      <a title="MySQL" href="https://mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+      <a title="MySQL" href="https://mysql.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="PostgreSQL" href="https://postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+      <a title="PostgreSQL" href="https://postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="MongoDB" href="http://mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+      <a title="MongoDB" href="http://mongodb.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="ElasticSearch" href="https://elastic.co" target="_blank"> <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg" alt="elastic" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Firebase" href="https://firebase.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="redis" width="40" height="40"/> </a>
+      <a title="Firebase" href="https://firebase.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="redis" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Redis" href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
+      <a title="Redis" href="https://redis.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
     </td>
   </tr>
   <tr>
@@ -152,22 +155,22 @@
       <h4>DevOps</h4>
     </td>
     <td>
-      <a title="Docker" href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+      <a title="Docker" href="https://docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Kubernetes" href="https://kubernetes.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+      <a title="Kubernetes" href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Amazon Web Services" href="http://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+      <a title="Amazon Web Services" href="http://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Nginx" href="https://nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+      <a title="Nginx" href="https://nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Jenkins" href="https://jenkins.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+      <a title="Jenkins" href="https://jenkins.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="GitHub Actions" href="https://github.com/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+      <a title="GitHub Actions" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
     </td>
   </tr>
 </table>
