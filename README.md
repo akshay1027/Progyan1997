@@ -15,7 +15,7 @@
   <a href = "https://npmjs.com/~bprogyan"><img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height = 30></a>
 </p>
 
-### Knows About
+### Skills
 <table>
   <tr>
     <td>
@@ -48,11 +48,8 @@
       <h4>Frontend Frameworks</h4>
     </td>
     <td>
-      <a title="Node.js" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-    </td>
-    <!--td>
       <a title="React" href="https://reactjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
-    </td-->
+    </td>
     <td>
       <a title="Next" href="https://nextjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
     </td>
@@ -106,19 +103,22 @@
       <h4>Backend Languages</h4>
     </td>
     <td>
-      <a title="Ruby" href="https://ruby-lang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-    </td>
-    <td>
       <a title="Python" href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </td>
-    <td>
+    <!--td>
       <a title="Go" href="https://go.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+    </td-->
+    <td>
+      <a title="Node.js" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Java" href="https://java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     </td>
-    <td>
+    <!--td>
       <a title="C#" href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+    </td-->
+    <td>
+      <a title="Ruby" href="https://ruby-lang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="PHP" href="https://php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -132,25 +132,28 @@
       <h4>Backend Frameworks</h4>
     </td>
     <td>
+      <a title="FastAPI" href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/> </a>
+    </td>
+    <!--td>
+      <a title="Flask" href="https://flask.palletsprojects.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+    </td-->
+    <td>
+      <a title="NestJS" href="http://nestjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> </a>
+    </td>
+    <td>
       <a title="Rails" href="https://rubyonrails.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="FastAPI" href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a title="Flask" href="https://flask.palletsprojects.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+      <a title="Laravel" href="https://laravel.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Django" href="https://djangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="NestJS" href="http://nestjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
-    </td>
-    <td>
       <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a title="Laravel" href="https://laravel.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
     </td>
   </tr>
    <tr>
@@ -196,7 +199,7 @@
       <a title="Elastic Search" href="https://elastic.co" target="_blank"> <img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg" alt="elastic" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Firebase" href="https://firebase.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="redis" width="40" height="40"/> </a>
+      <a title="Firebase" href="https://firebase.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Redis" href="https://redis.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
@@ -204,7 +207,7 @@
   </tr>
   <tr>
     <td>
-      <h4>DevOps</h4>
+      <h4>Infrastructure</h4>
     </td>
     <td>
       <a title="Docker" href="https://docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
@@ -213,20 +216,39 @@
       <a title="Kubernetes" href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
     </td>
     <td>
+     <a title="Nginx" href="https://nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+    </td>
+    <td>
+     <a title="Apache" href="https://httpd.apache.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" alt="apache" width="40" height="40"/> </a>
+    </td>
+    <td>
       <a title="Amazon Web Services" href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Google Cloud Platform" href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="aws" width="40" height="40"/> </a>
+      <a title="Google Cloud Platform" href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a>
     </td>
     <td>
-     <!--a title="Nginx" href="https://nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a-->
+      <a title="Microsoft Azure" href="https://azure.microsoft.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>CI/CD</h4>
+    </td>
+    <td>
      <a title="Jenkins" href="https://jenkins.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Gitlab CI" href="https://docs.gitlab.com/ee/ci" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+      <a title="GitHub Actions" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="GitHub Actions" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+      <a title="Travis CI" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" alt="travis" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="CircleCI" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="Gitlab CI" href="https://docs.gitlab.com/ee/ci" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
     </td>
   </tr>
 </table>
